@@ -1,0 +1,27 @@
+{
+  "name": "glsl-layer",
+  "version": "1.0.0",
+  "description": "Layer texels on top of each other in the same shader.",
+  "main": "layer.glsl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayamflow/glsl-layer.git"
+  },
+  "keywords": [
+    "glsl",
+    "overlap",
+    "top",
+    "bottom",
+    "layer",
+    "overlay"
+  ],
+  "author": "Florian Morel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayamflow/glsl-layer/issues"
+  },
+  "homepage": "https://github.com/ayamflow/glsl-layer#readme"
+}
