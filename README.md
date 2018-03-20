@@ -9,7 +9,7 @@ Layer texels on top of each other in the same shader.
 ### Installation :package:
 
 ```bash
-npm i infinite-random-list -S
+npm i glsl-layer -S
 ```
 
 ### Usage & example :floppy_disk:
@@ -32,4 +32,4 @@ void main() {
 
 ### License :pencil:
 
-MIT. See [LICENSE.md](http://github.com/ayamflow/glsl-layer/blob/master/LICENSE.md) for details.
+MIT. See [LICENSE](http://github.com/ayamflow/glsl-layer/blob/master/LICENSE) for details.
